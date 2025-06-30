@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Pizza
 Nuggets
 Burger
-=======
 Harry Potter
 Tangled
 Avengers
->>>>>>> movies
